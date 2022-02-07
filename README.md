@@ -52,5 +52,5 @@
 ------------------------------------------
 
 
-### Project Explanation 
-Link https://www.youtube.com/watch?v=uBfr7uRkRb0
+### Project Video
+Link: https://www.linkedin.com/posts/prem-singh-172809_task2-gripoct21-intern-activity-6856521347414290432-Il5y
